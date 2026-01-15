@@ -1,0 +1,14 @@
+ Corpus Name: InterdialectCorpus
+     Package: InterdialectCorpus in Moses format
+     Website: http://opus.nlpl.eu/legacy/InterdialectCorpus-v1.php
+     Release: v1
+Release date: Tue Dec  2 14:44:40 EET 2025
+     License: CC BY-NC-SA 4.0
+
+This package is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+QG1pc2N7YWhtYWRpMjAyMGxldmVyYWdpbmcsCiAgICAgIHRpdGxlPXtMZXZlcmFnaW5nIE11bHRpbGluZ3VhbCBOZXdzIFdlYnNpdGVzIGZvciBCdWlsZGluZyBhIEt1cmRpc2ggUGFyYWxsZWwgQ29ycHVzfSwgCiAgICAgIGF1dGhvcj17U2luYSBBaG1hZGkgYW5kIEhvc3NlaW4gSGFzc2FuaSBhbmQgRGFiYW4gUS4gSmFmZn0sCiAgICAgIHllYXI9ezIwMjB9LAogICAgICBlcHJpbnQ9ezIwMTAuMDE1NTR9LAogICAgICBhcmNoaXZlUHJlZml4PXthclhpdn0sCiAgICAgIHByaW1hcnlDbGFzcz17Y3MuQ0x9Cn0K
+
+InterdialectCorpus is a parallel corpus of Kurdish (Sorani and Kurmanji) and English available from https://github.com/KurdishBLARK/InterdialectCorpus.
+
