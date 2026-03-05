@@ -52,6 +52,7 @@ DocHPLT/index-filesize.txt
 DocHPLT/index-long.txt
 DocHPLT/index.txt
 DocHPLT/info.txt
+DocHPLT/releases.txt
 ECB/index-filesize.txt
 ECB/index-long.txt
 ECB/index.txt

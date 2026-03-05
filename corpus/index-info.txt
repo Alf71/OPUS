@@ -25,6 +25,7 @@ DGT/v4/info.yaml
 DocHPLT/info.yaml
 DocHPLT/v2.1/info.yaml
 DocHPLT/v2/info.yaml
+DocHPLT/v3/info.yaml
 DOGC/info.yaml
 DOGC/v2/info.yaml
 DOGC/v3/info.yaml

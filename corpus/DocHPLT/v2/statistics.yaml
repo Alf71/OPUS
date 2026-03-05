@@ -2215,6 +2215,7 @@ bitexts:
         size: ~
         url: ~
   az-ne:
+    alignments: 48115
     downloads:
       alignments:
         size: 585394
@@ -2231,6 +2232,9 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 7899
+    source language tokens: 878885
+    target language tokens: 1160598
   az-nn:
     downloads:
       alignments:
@@ -2844,6 +2848,7 @@ bitexts:
         size: ~
         url: ~
   be-kn:
+    alignments: 69060
     downloads:
       alignments:
         size: 825539
@@ -2860,6 +2865,9 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 11614
+    source language tokens: 1256731
+    target language tokens: 1273721
   be-ko:
     downloads:
       alignments:
@@ -6431,6 +6439,7 @@ bitexts:
         size: ~
         url: ~
   cy-ga:
+    alignments: 228872
     downloads:
       alignments:
         size: 2107671
@@ -6447,6 +6456,9 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 24293
+    source language tokens: 4822723
+    target language tokens: 5111611
   cy-gl:
     downloads:
       alignments:
@@ -12147,6 +12159,7 @@ bitexts:
         size: ~
         url: ~
   gu-he:
+    alignments: 95871
     downloads:
       alignments:
         size: 1047884
@@ -12163,6 +12176,9 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 16198
+    source language tokens: 2111874
+    target language tokens: 1813213
   gu-hi:
     downloads:
       alignments:
@@ -13936,6 +13952,7 @@ bitexts:
         size: ~
         url: ~
   hr-mr:
+    alignments: 67578
     downloads:
       alignments:
         size: 878544
@@ -13952,6 +13969,9 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 12050
+    source language tokens: 1395252
+    target language tokens: 1638685
   hr-ms:
     downloads:
       alignments:
@@ -16490,6 +16510,7 @@ bitexts:
         size: ~
         url: ~
   ko-tr:
+    alignments: 604143
     downloads:
       alignments:
         size: 8622233
@@ -16506,6 +16527,9 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 140771
+    source language tokens: 10571222
+    target language tokens: 11440610
   ko-uk:
     downloads:
       alignments:
@@ -17510,6 +17534,7 @@ bitexts:
         size: ~
         url: ~
   mk-si:
+    alignments: 43397
     downloads:
       alignments:
         size: 536703
@@ -17526,6 +17551,9 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 6367
+    source language tokens: 876109
+    target language tokens: 900842
   mk-sk:
     downloads:
       alignments:
@@ -21632,6 +21660,7 @@ bitexts:
         size: ~
         url: ~
   ur-xh:
+    alignments: 30263
     downloads:
       alignments:
         size: 354245
@@ -21648,6 +21677,9 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 4223
+    source language tokens: 1077376
+    target language tokens: 490840
   uz-vi:
     downloads:
       alignments:
@@ -22315,15 +22347,31 @@ monolingual:
     tokens: 11607608
 moses:
   af-uz: {}
+  az-ne: {}
+  be-kn: {}
+  cy-ga: {}
   eu-sq: {}
+  gu-he: {}
   gu-ml: {}
+  hr-mr: {}
   kk-th: {}
+  ko-tr: {}
+  mk-si: {}
   mk-th: {}
   sk-te: {}
+  ur-xh: {}
 tmx:
   af-uz: {}
+  az-ne: {}
+  be-kn: {}
+  cy-ga: {}
   eu-sq: {}
+  gu-he: {}
   gu-ml: {}
+  hr-mr: {}
   kk-th: {}
+  ko-tr: {}
+  mk-si: {}
   mk-th: {}
   sk-te: {}
+  ur-xh: {}

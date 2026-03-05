@@ -1,0 +1,42 @@
+---
+alignments: 0
+languages:
+  - lt
+  - ga
+  - sr
+  - eu
+  - hu
+  - uk
+  - da
+  - nn
+  - sq
+  - ro
+  - hr
+  - is
+  - ca
+  - bg
+  - gl
+  - cs
+  - bs
+  - fi
+  - et
+  - el
+  - ka
+  - lv
+  - en
+  - tr
+  - nb
+  - sk
+  - mk
+  - mt
+  - sl
+moses alignments: 0
+name: DocHPLT
+number of language pairs: 0
+number of languages: 29
+release: v3
+release date: Thu Mar  5 08:41:50 EET 2026
+sentences: 5890621100
+tokens: 80682352229
+translation units: 0
+website: http://opus.nlpl.eu/legacy/DocHPLT-v3.php
