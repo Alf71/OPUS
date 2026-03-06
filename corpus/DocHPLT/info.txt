@@ -404,6 +404,7 @@ DocHPLT/v3/info/el.info:638606445
 DocHPLT/v3/info/el.info:9548204321
 DocHPLT/v3/info/en.info:88237304
 DocHPLT/v3/info/en.info:5155913031
+DocHPLT/v3/info/en.info:72994792193
 DocHPLT/v3/info/et.info:2564772
 DocHPLT/v3/info/et.info:1963303939
 DocHPLT/v3/info/et.info:164475405
@@ -477,6 +478,7 @@ DocHPLT/v3/info/sr.info:82839855
 DocHPLT/v3/info/sr.info:1100255680
 DocHPLT/v3/info/tr.info:15906573
 DocHPLT/v3/info/tr.info:535222994
+DocHPLT/v3/info/tr.info:9630267627
 DocHPLT/v3/info/uk.info:548288
 DocHPLT/v3/info/uk.info:36887353
 DocHPLT/v3/info/uk.info:377379638

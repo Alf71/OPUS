@@ -6715,7 +6715,7 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-files: 97353176
+files: 201497053
 monolingual:
   bg:
     downloads:
@@ -6798,6 +6798,9 @@ monolingual:
       xml:
         size: 7524
         url: https://object.pouta.csc.fi/OPUS-DocHPLT/v3/raw/en.zip
+    files: 88237304
+    sentences: 5155913031
+    tokens: 72994792193
   et:
     downloads:
       plain text:
@@ -7026,6 +7029,9 @@ monolingual:
       xml:
         size: 1391
         url: https://object.pouta.csc.fi/OPUS-DocHPLT/v3/raw/tr.zip
+    files: 15906573
+    sentences: 535222994
+    tokens: 9630267627
   uk:
     downloads:
       plain text:

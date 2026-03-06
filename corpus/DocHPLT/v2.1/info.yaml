@@ -1,64 +1,64 @@
 ---
 alignments: 3959593
 language pairs:
-  - ko-tr
-  - mk-th
   - sk-te
-  - af-uz
-  - eu-sq
   - gu-ml
+  - ko-tr
+  - eu-sq
+  - af-uz
+  - mk-th
 languages:
-  - cy
-  - sr
-  - ga
-  - si
-  - lt
-  - ne
-  - ja
-  - is
-  - ta
-  - gl
-  - bg
-  - ca
-  - eo
-  - bn
-  - uz
-  - bs
   - et
-  - ur
-  - kn
+  - gl
   - nb
-  - tr
-  - he
-  - sl
-  - mt
-  - gu
-  - mk
-  - az
-  - mr
-  - nn
-  - xh
-  - af
-  - uk
-  - fa
-  - eu
-  - hr
-  - hi
-  - be
-  - sw
-  - ar
-  - sq
-  - ko
-  - te
-  - ms
-  - kk
-  - fi
-  - vi
   - en
-  - th
+  - is
+  - eo
+  - tr
+  - mr
+  - az
+  - lt
+  - ca
+  - te
   - lv
-  - ml
+  - kk
+  - mt
+  - he
+  - xh
+  - ta
+  - eu
+  - sl
+  - kn
+  - bs
+  - mk
+  - hi
+  - ko
+  - hr
+  - sq
+  - uz
+  - ja
+  - cy
   - sk
+  - sw
+  - th
+  - ml
+  - ar
+  - gu
+  - be
+  - uk
+  - ne
+  - fa
+  - fi
+  - ms
+  - ga
+  - sr
+  - si
+  - vi
+  - af
+  - nn
+  - bn
+  - bg
+  - ur
 moses alignments: 0
 name: DocHPLT
 number of language pairs: 6
